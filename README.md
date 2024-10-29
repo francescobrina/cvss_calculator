@@ -14,7 +14,7 @@
 
 ## Anteprima
 
-![Screenshot dell'Applicazione](/images/image.png)
+![Screenshot dell'Applicazione](image.png)
 
 ## Installazione
 
