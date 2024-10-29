@@ -7,9 +7,9 @@
 
 ## Caratteristiche
 
-- **Interfaccia Intuitiva**: Utilizza menu a tendina per selezionare le metriche CVSS.
+- **Interfaccia Intuitiva**: Utilizza menu per selezionare le metriche CVSS.
 - **Calcolo Completo**: Supporta le metriche di base, temporali e ambientali del CVSS v3.1.
-- **Risultati Dettagliati**: Visualizza il vettore CVSS, i punteggi base, temporali e ambientali, oltre alla gravità complessiva.
+- **Risultati Dettagliati**: Visualizza il vettore CVSS, i punteggi base, temporali e ambientali.
 - **Validazione Input**: Gestisce errori di input e fornisce messaggi di errore chiari.
 
 ## Anteprima
